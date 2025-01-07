@@ -1,4 +1,4 @@
-@Library('roboshop') _
+@Library('roboshop')
 
 env.component = "frontend"
 mainCI()
